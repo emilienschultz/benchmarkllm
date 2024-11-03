@@ -1,0 +1,13 @@
+information,type
+age_in_years,dictionnary|RESPONSE[open]
+army,dictionnary|RESPONSE[categorical]
+cause_of_death,dictionnary|RESPONSE[list]
+children,dictionnary|RESPONSE[open]
+education_institution,dictionnary|RESPONSE[list]
+educ_level,dictionnary|RESPONSE[categorical]
+family_roles,dictionnary|RESPONSE[list]
+gender,dictionnary|RESPONSE[categorical]
+occupation_phrase,dictionnary|RESPONSE[list]
+origin,dictionnary|RESPONSE[open]
+place_lived_last,dictionnary|RESPONSE[open]
+religion,dictionnary|RESPONSE[categorical]
