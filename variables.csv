@@ -11,3 +11,5 @@ occupation_phrase,dictionnary|RESPONSE[list]
 origin,dictionnary|RESPONSE[open]
 place_lived_last,dictionnary|RESPONSE[open]
 religion,dictionnary|RESPONSE[categorical]
+cause_of_death_regex,open
+age_in_years_regex,open
