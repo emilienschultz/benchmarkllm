@@ -1,3 +1,4 @@
 pandas
 python-Levenshtein
 openpyxl
+scikit-learn
