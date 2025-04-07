@@ -1,4 +1,4 @@
-# Evaluation of information extraction
+# Evaluation of "Extracting Information from Text with Generative Large Language Models"
 
 This repository contains all the scripts needed to reproduce the data presented in the article [From Codebooks to Promptbooks: Extracting Information from Text with Generative Large Language Models](https://osf.io/preprints/socarxiv/wjvfq_v1).
 
